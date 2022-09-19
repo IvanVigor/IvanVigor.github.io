@@ -4,15 +4,16 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+#[Balanced Graph Partitioning](https://github.com/IvanVigor/Balanced_Graph_Partitioning).
 
-There should be whitespace between paragraphs.
+Paper implementation for "Balanced Graph Partitioning" paper (authors: Konstantin Andreev, Harald Racke).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+```py Windows/Unix
+// Libraries
+numpy
+networkx
+python-igraph
+```
 
 ## Header 2
 
@@ -22,12 +23,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+```py
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+* numpy
+* etworkx
+* python-igraph
 ```
 
 ```ruby
