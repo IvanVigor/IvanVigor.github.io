@@ -21,6 +21,8 @@ python-igraph
 
 ```
 
+[Paper Doc](https://www.math.cmu.edu/~kandreev/kpart.pdf)
+
 [Github](https://github.com/IvanVigor/Balanced_Graph_Partitioning)
 
 
@@ -29,6 +31,7 @@ python-igraph
 Top-N recommender systems typically utilize side information to address the problem of data sparsity. Augmented Lagrange Multiplier and Alternating Direction Method are applied to efficiently solve the problems. Experiment results demonstrate the superior recommendation quality of the proposed algorithm to that of the state-of-the-art alternatives.
 
 [Paper Doc](https://arxiv.org/abs/1702.01516)
+
 [Github](https://github.com/IvanVigor/Leveraging-High-Dimensional-Side-Information-for-Top-N-Recommendation)
 
 
