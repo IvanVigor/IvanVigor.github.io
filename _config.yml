@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title:    Ivan Vigorito
 description: [Data Scientist - Insurance/Finance]
-logo: https://raw.githubusercontent.com/IvanVigor/IvanVigor.github.io/main/imgs/face.png
+logo: https://github.com/IvanVigor/IvanVigor.github.io/blob/main/imgs/face.png
