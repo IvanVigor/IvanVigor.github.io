@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-#[Balanced Graph Partitioning](https://github.com/IvanVigor/Balanced_Graph_Partitioning).
+# [Balanced Graph Partitioning](https://github.com/IvanVigor/Balanced_Graph_Partitioning).
 
 Paper implementation for "Balanced Graph Partitioning" paper (authors: Konstantin Andreev, Harald Racke).
 
@@ -20,15 +20,6 @@ python-igraph
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```py
-// Javascript code with syntax highlighting.
-* numpy
-* etworkx
-* python-igraph
-```
 
 ```ruby
 # Ruby code with syntax highlighting
