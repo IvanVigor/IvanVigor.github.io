@@ -11,6 +11,8 @@ Github code implementation for "Balanced Graph Partitioning" paper (authors: Kon
 graph partitioning - dividing the vertices of a graph into k almost equal size components so that the capacity of edges between different components
 is minimized.
 
+![Image](https://raw.githubusercontent.com/IvanVigor/IvanVigor.github.io/main/imgs/graph.png)
+
 [Paper Doc](https://www.math.cmu.edu/~kandreev/kpart.pdf)
 
 ```
